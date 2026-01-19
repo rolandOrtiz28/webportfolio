@@ -14,15 +14,15 @@ import { useInView } from "react-intersection-observer";
 const ProjectsSection = () => {
   // Your existing web projects (unchanged)
   const webProjects = [
-    {
-      title: "The Liquor Store",
-      description:
-        "A New York-based online liquor store offering wines, spirits, accessories, and same-day delivery with full age-verification compliance.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1747190155/editedge/Screenshot_78_rtwdyi.png",
-      link: "https://theliquorstore.editedgemultimedia.com/",
-    },
+    // {
+    //   title: "The Liquor Store",
+    //   description:
+    //     "A New York-based online liquor store offering wines, spirits, accessories, and same-day delivery with full age-verification compliance.",
+    //   tech: "React, Node.js, MongoDB, Tailwind CSS",
+    //   previewImage:
+    //     "https://res.cloudinary.com/rolandortiz/image/upload/v1747190155/editedge/Screenshot_78_rtwdyi.png",
+    //   link: "https://theliquorstore.editedgemultimedia.com/",
+    // },
     {
       title: "E-Book Store",
       description:
@@ -50,25 +50,25 @@ const ProjectsSection = () => {
         "https://res.cloudinary.com/dbzuuuvue/image/upload/v1765084294/Screenshot_9_mmodic.png",
       link: "https://ecologicsolutions.nyc/",
     },
-    {
-      title: "Spirit Shop Deluxe",
-      description:
-        "A modern online liquor marketplace with advanced filtering, secure checkout, curated product collections, and local delivery options.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1746207548/editedge/Screenshot_77_wf3oal.png",
-      link: "https://spiritshopdeluxe.editedgemultimedia.com/",
-    },
+    // {
+    //   title: "Spirit Shop Deluxe",
+    //   description:
+    //     "A modern online liquor marketplace with advanced filtering, secure checkout, curated product collections, and local delivery options.",
+    //   tech: "React, Node.js, MongoDB, Tailwind CSS",
+    //   previewImage:
+    //     "https://res.cloudinary.com/rolandortiz/image/upload/v1746207548/editedge/Screenshot_77_wf3oal.png",
+    //   link: "https://spiritshopdeluxe.editedgemultimedia.com/",
+    // },
     
-    {
-      title: "Iron Edge",
-      description:
-        "A performance supplement brand website featuring sports nutrition products with a responsive UI and secure e-commerce functions.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS, Stripe",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1743991963/editedge/IronEdge_afvz7a.png",
-      link: "https://ironedge.editedgemultimedia.com/",
-    },
+    // {
+    //   title: "Iron Edge",
+    //   description:
+    //     "A performance supplement brand website featuring sports nutrition products with a responsive UI and secure e-commerce functions.",
+    //   tech: "React, Node.js, MongoDB, Tailwind CSS, Stripe",
+    //   previewImage:
+    //     "https://res.cloudinary.com/rolandortiz/image/upload/v1743991963/editedge/IronEdge_afvz7a.png",
+    //   link: "https://ironedge.editedgemultimedia.com/",
+    // },
    
     
   ];
