@@ -59,24 +59,7 @@ const ProjectsSection = () => {
         "https://res.cloudinary.com/rolandortiz/image/upload/v1746207548/editedge/Screenshot_77_wf3oal.png",
       link: "https://spiritshopdeluxe.editedgemultimedia.com/",
     },
-    {
-      title: "Noble Nectar",
-      description:
-        "A liquor store platform featuring a curated catalog of wines, spirits, and craft beverages with smooth navigation and a clean user experience.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1746463275/editedge/695b7566-8923-4b06-9d8f-363ea2814b41.png",
-      link: "https://noblenectar.editedgemultimedia.com/",
-    },
-    {
-      title: "Velvet Sip",
-      description:
-        "A luxury lifestyle liquor brand offering premium wines, cream liqueurs, and cigar essentials through a sleek, elegant e-commerce platform.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1746462543/editedge/Velvet_etzzan.png",
-      link: "https://velvetsip.editedgemultimedia.com/",
-    },
+    
     {
       title: "Iron Edge",
       description:
@@ -86,24 +69,7 @@ const ProjectsSection = () => {
         "https://res.cloudinary.com/rolandortiz/image/upload/v1743991963/editedge/IronEdge_afvz7a.png",
       link: "https://ironedge.editedgemultimedia.com/",
     },
-    {
-      title: "Glow Haven",
-      description:
-        "A skincare e-commerce platform offering natural serums, treatments, and bundles with a clean design and optimized checkout.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1743991961/editedge/GlowHaven_zgdcan.png",
-      link: "https://glowhavenshop.editedgemultimedia.com/",
-    },
-    {
-      title: "Cozy Scent",
-      description:
-        "An online candle shop selling handcrafted soy candles and wax melts with a user-friendly shop experience and secure checkout.",
-      tech: "React, Node.js, MongoDB, Tailwind CSS",
-      previewImage:
-        "https://res.cloudinary.com/rolandortiz/image/upload/v1743991962/editedge/CozyScent_npyoqm.png",
-      link: "https://cozyscent.editedgemultimedia.com/",
-    },
+   
     
   ];
 
